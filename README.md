@@ -1,1 +1,1 @@
-This is My Personal Portfolio website which intends to publish school website.
+This is My Personal Portfolio which intends to publish school website.
